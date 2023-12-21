@@ -1,0 +1,23 @@
+/*arxeio test
+gia thn dokimh tou syntaktikou analyth*/
+program test {
+    declare a,a;
+    declare b, c;
+
+    {if(a>b or not [c<d]) then a:=0
+       else b:=b+2
+           
+    ;
+    loop
+    {
+        kkkkkkk:=20;
+        exit;
+        if (aaa<bbb) then exit;
+        vv := 30
+    };
+    if (n<m )then m:=20;
+    
+    while(l < k) 
+        h:=h/129 + 3
+    }
+}

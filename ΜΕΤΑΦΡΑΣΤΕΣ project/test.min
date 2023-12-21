@@ -1,0 +1,55 @@
+/*arxeio test
+gia thn dokimh tou syntaktikou analyth*/
+program test {
+    declare a,a;
+    declare b, c;
+
+    procedure p(in a, inout b){
+        procedure p1(){
+           { a:=i;
+            while(k<9)
+                k:=k+1
+           }
+        }
+        function f(in a){
+            {
+                b:=4;
+                if(z>0) then a:=3
+                else a:=5;
+                if(z<0 and z>-90 or [k<>10 and l<=o and not [a=t]] and m>=8)
+                    then z:=o+k+f;
+                return x
+            }
+        }
+        {
+            c:=10*10+6-4/g(in x+2, inout t)*f+(k+l);
+            doublewhile(m < n)
+                m:=m+1
+            else
+                m:=m-1;
+
+            loop
+                exit;
+            forcase
+                when(a<n) : f:=f+2
+                when(a<>n) : f:=f-2
+                when(a=n) : {f:=f*2;h:=f-h; print(x)}
+                default: c:=21;
+            incase
+                when(a<n) : f:=f+2
+                when(a<>n) : f:=f-2
+                when(a=n) : {f:=f*2;h:=f-h}
+        }
+    }
+    {
+        input(x);
+
+        c:=10;
+        call p(in x, inout y);
+        
+        doublewhile(a < b)
+            x:= x+2
+        else
+            y:= y+2
+    }
+}
